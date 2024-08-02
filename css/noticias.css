@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
 
 body {
-    font-family: cursive; /* Fuente más moderna y legible */
+    font-family: "Montserrat", sans-serif; /* Fuente más moderna y legible */
     padding: 20px;
     background-color: #f0f8ff; /* Fondo suave */
     line-height: 1.6; /* Mejora la legibilidad */
